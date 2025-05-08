@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second year IT Student.<br>Languages: HTML, CSS, JavaScript, Python, C#, C<br>Frameworks: Django, Flask, Bootstrap, Learning React<br><br>Primarily focused on Python and Django.
+Second year IT Student.<br>Languages: HTML, CSS, JavaScript, Python, C#, C<br>Frameworks: Django, Flask, Bootstrap, React
 
 
 ## 🌐 Socials:
@@ -12,10 +12,5 @@ Second year IT Student.<br>Languages: HTML, CSS, JavaScript, Python, C#, C<br>Fr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=albionaleka&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=albionaleka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=albionaleka&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=albionaleka&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
